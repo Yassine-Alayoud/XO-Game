@@ -1,0 +1,44 @@
+
+body{
+    background: url('images/andrey-metelev-DEuansgqjns-unsplash.jpg');
+    background-position: 40%;
+}
+
+.container{
+    width: 300px;
+    font-family: system-ui;
+    text-align: center;
+    color: white;
+    margin: auto;
+    font-weight: 500;
+}
+.title{
+    background: rgb(211, 52, 153);
+    padding: 20px 0;
+    margin: 20px 0;
+    font-size: 20px;
+}
+span{
+    color: rgb(242, 242, 75);
+}
+.square{
+    width: 90px;
+    height: 90px;
+    background: rgb(211, 52, 153);
+    float: left;
+    margin: 5px;
+    font-size: 60px;
+}
+.start{
+    background: rgb(0, 132, 255);
+    padding: 20px 0;
+    margin: 20px 0;
+    font-size: 20px;
+    width: 300px;
+    height: 30px;
+    float: left;
+}
+.start:hover{
+    background: rgb(0, 128, 58);
+    cursor: pointer;
+}
